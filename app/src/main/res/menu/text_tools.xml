@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bold"
+        android:title="bold"
+        android:icon="@drawable/textbold" />
+    <item
+        android:id="@+id/italic"
+        android:title="italic"
+        android:icon="@drawable/textitalic" />
+    <item
+        android:id="@+id/underline"
+        android:title="underline"
+        android:icon="@drawable/textunderline" />
+    <item
+        android:id="@+id/text"
+        android:title="text"
+        android:icon="@drawable/text" />
+    <item
+        android:id="@+id/align_justify_center"
+        android:title="align_justify_center"
+        android:icon="@drawable/textalignjustifycenter" />
+    <item
+        android:id="@+id/align_justify_left"
+        android:title="align_justify_left"
+        android:icon="@drawable/textalignjustifyleft" />
+    <item
+        android:id="@+id/align_center"
+        android:title="align_center"
+        android:icon="@drawable/textaligncenter" />
+    <item
+        android:id="@+id/align_justify_right"
+        android:title="align_justify_right"
+        android:icon="@drawable/textalignjustifyright" />
+</menu>
